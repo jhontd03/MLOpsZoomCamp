@@ -22,3 +22,9 @@ rad.json
 TestResults.xml
 *.csv
 *.parquet
+*.parquet
+*.pkl
+*.db
+**/mlartifacts
+**/mlruns
+**/models
